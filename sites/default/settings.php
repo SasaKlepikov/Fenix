@@ -215,10 +215,10 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'alexandr-klepikovcz_fenix',
-      'username' => 'alexandr-k837_ro',
-      'password' => '963fsLJ4',
-      'host' => 'mysql4.ebola.cz',
+      'database' => 'fenix',
+      'username' => 'root',
+      'password' => 'aira123',
+      'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => 'dru731_',
